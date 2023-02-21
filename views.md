@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Views
-permalink: /views/
+permalink: /views
 ---
 
 
