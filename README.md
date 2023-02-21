@@ -1,2 +1,2 @@
 # technical-datas
-A website with technical datas about LesChampsLibres auditorium venue.
+A website with technical datas about LesChampsLibres's auditorium venue.
