@@ -7,3 +7,5 @@ title: Home
 permalink: /
 ---
 Hello world!
+
+[about](about.md/)
