@@ -28,7 +28,7 @@ twitter_username:
 github_username:  TechAuditoLCLRennes
 
 # Build settings
-remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
 
